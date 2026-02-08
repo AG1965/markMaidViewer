@@ -199,3 +199,11 @@ When creating markdown files for this viewer:
 - Verify the file path in the `md` parameter is correct
 - Ensure the file is readable by the web server
 - Check file permissions on the server
+
+## samples
+
+Added the samples folder with the [example markdown](samples/example.md) from this readme.md which was completed by BOB. (see folder ["BOB"](BOB))
+
+To be able to check the result without the need to run the PHP code,
+I added a [static HTML file with the result of the markdown rendering](samples/example.html).
+Open it in a browser to see how the markdown and Mermaid diagram are rendered.
